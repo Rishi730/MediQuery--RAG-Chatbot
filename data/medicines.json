@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Paracetamol",
+      "uses": "Used to reduce fever and relieve mild to moderate pain such as headaches, muscle aches, and arthritis."
+    },
+    {
+      "name": "Cetirizine",
+      "uses": "An antihistamine used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, and sneezing."
+    },
+    {
+      "name": "Montelukast",
+      "uses": "Used to prevent and manage asthma symptoms and relieve symptoms of seasonal allergies."
+    },
+    {
+      "name": "Ibuprofen",
+      "uses": "Nonsteroidal anti-inflammatory drug (NSAID) used for relieving pain, fever, and inflammation."
+    }
+  ]
+  

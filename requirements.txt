@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+transformers
+gradio
+torch
+
