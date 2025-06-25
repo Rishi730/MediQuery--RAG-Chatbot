@@ -1,4 +1,5 @@
-# MediQuery--RAG-Chatbot
+# MediQuery-Medicinal RAG Chatbot
+
 
 This is a lightweight Retrieval-Augmented Generation (RAG) chatbot built using BioBERT and ChromaDB to answer user queries about medicinal drugs and their use-cases.
 
